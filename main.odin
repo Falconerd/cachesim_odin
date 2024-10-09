@@ -1,7 +1,6 @@
 package cachesim
 
 import "core:fmt"
-import "core:os"
 import "core:sys/windows"
 
 ProcCacheSimInit :: proc "cdecl" ()
